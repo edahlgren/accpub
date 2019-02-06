@@ -1,4 +1,4 @@
-This is a preview of a new not-for-profit software company designed to accelerate academic publishing, starting with Computer Science and Natural Language Processing research.
+This is a preview of a new not-for-profit software company designed to <span id="highlight">accelerate academic publishing</span>, starting with Computer Science and Natural Language Processing research.
 
 [Jump to FAQ](#faq)
 

@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+#highlight {
+  color: #f29900;
+}
+
 #title {
   color: #f29900;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
