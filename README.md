@@ -1,4 +1,4 @@
-This is a preview of an early-stage not-for-profit software development company designed to accelerate the publishing of academic papers, starting with Computer Science and Natural Language Processing research.
+This is a preview of an early-stage not-for-profit software development company designed to accelerate publishing of academic papers, starting with Computer Science and Natural Language Processing research.
 
 [Jump to FAQ](#faq)
 
