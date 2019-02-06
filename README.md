@@ -1,6 +1,6 @@
-*Audience: members of the ACM*
+This is a preview of a not-for-profit software development company designed to accelerate the publishing of academic papers.
 
-This is a preview of a not-for-profit software development company designed to accelerate the publishing of academic papers. [Jump to FAQ](#faq)
+[Jump to FAQ](#faq)
 
 Initially its focus is on addressing problems with academic software in Computer Science and Natural Language Processing. For example,
 
@@ -36,13 +36,17 @@ Valuable projects with broad reach, for example projects used by many similar re
 To receive updates on current and future projects:
 
 > *email:* edahlgren@uchicago.edu
+>
 > *subject:* “AccPub update me”
+>
 > *body:* (can be blank)
 
 To learn how to get involved:
 
 > *email:* edahlgren@uchicago.edu
+>
 > *subject:* “AccPub get involved”
+>
 > *body:* (can be blank)
 
 ------
@@ -50,18 +54,21 @@ To learn how to get involved:
 ### FAQ
 
 + [Who’s behind this?](#whos-behind-this)
-+ [What’s the name of this not-for-profit?](whats-the-name-of-this-not-for-profit)
-+ [Where’s your website?](wheres-your-website)
-+ [How are you different from organizations like The Software Sustainability Institute?](how-are-you-different-from-organizations-like-the-software-sustainability-institute)
-+ [How do you operate?](how-do-you-operate)
-+ [Are you hiring?](are-you-hiring)
-+ [Can I ask you for help with my project?](can-i-ask-you-for-help-with-my-project)
++ [What does it cost?](#what-does-it-cost)
++ [What’s the name of this not-for-profit?](#whats-the-name-of-this-not-for-profit)
++ [Where’s your website?](#wheres-your-website)
++ [How are you different from organizations like The Software Sustainability Institute?](#how-are-you-different-from-organizations-like-the-software-sustainability-institute)
++ [How do you operate?](#how-do-you-operate)
++ [Are you hiring?](#are-you-hiring)
++ [Can I ask you for help with my project?](#can-i-ask-you-for-help-with-my-project)
 
 #### Who’s behind this?
 
 Hi, I’m Erin Dahlgren, the initiator of this not-for-profit. I have a background in Linguistics research (University of Chicago), startups (YCombinator), and security research for virtualization at scale (Google). I’ll be the one to find initial sponsors, manage logistics, and develop our initial projects. With more success stories under our belt, joining me will be research software engineers (a role in between academia and industry) from around the country.
 
 Thanks to our initial collaborators: the ACM’s Artifact Review and Badging committee and graduate students and faculty from the University of Chicago.
+
+#### What does it cost?
 
 #### What’s the name of this not-for-profit?
 
