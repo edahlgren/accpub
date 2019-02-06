@@ -1,8 +1,9 @@
 This is a preview of a not-for-profit software development company designed to accelerate the publishing of academic papers.
 
+
 [Jump to FAQ](#faq)
 
-Initially its focus is on addressing problems with academic software in Computer Science and Natural Language Processing. For example,
+Focus is on addressing difficult and important problems with academic software, starting in the fields of Computer Science and Natural Language Processing. For example,
 
 + [Reproducibility](#reproducibility)
 + [Sustainable software design](#sustainable-software-design)
@@ -27,7 +28,7 @@ Even if attracting new academic users leads to more citations, rarely do authors
 
 > **Solutions:** The authors of a popular research database need a sustainable host for their project, which hasn’t been updated in several years. We can host the database, keep it updated, provide a modern promotional website, and and maintain documentation that attracts new users in academia and industry. More details to come in Spring 2019.
 
-### Sponsorship.
+### Sponsorship
 
 Valuable projects with broad reach, for example projects used by many similar research groups or projects used by both academia and industry, can become highly sustainable by finding sponsors willing to contribute intellectual, financial, and technical resources in exchange for being able to use the projects to attract new technical talent, users, or investment opportunities. Unfortunately, authors don’t have the networks or the time to pitch to many of these sponsors. And without mediation, some sponsors may try to transform projects into something that serves their own needs or profits, ignoring or even cutting off the original research communities.
 
@@ -35,23 +36,23 @@ Valuable projects with broad reach, for example projects used by many similar re
 
 To receive updates on current and future projects:
 
-> *email:* edahlgren@uchicago.edu
->
-> *subject:* “AccPub update me”
->
-> *body:* (can be blank)
+```
+send to: Erin Dahlgren <edahlgren@uchicago.edu>
+subject: “AccPub update me”
+body: (can be blank)
+```
 
 To learn how to get involved:
 
-> *email:* edahlgren@uchicago.edu
->
-> *subject:* “AccPub get involved”
->
-> *body:* (can be blank)
+```
+send to: Erin Dahlgren <edahlgren@uchicago.edu>
+subject: “AccPub get involved”
+body: (can be blank)
+```
 
 ------
 
-### FAQ
+## FAQ
 
 + [Who’s behind this?](#whos-behind-this)
 + [What does it cost?](#what-does-it-cost)
