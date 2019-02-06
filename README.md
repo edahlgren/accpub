@@ -1,9 +1,8 @@
-This is a preview of a not-for-profit software development company designed to accelerate the publishing of academic papers.
-
+This is a preview of an early-stage not-for-profit software development company designed to accelerate the publishing of academic papers, starting with Computer Science and Natural Language Processing research.
 
 [Jump to FAQ](#faq)
 
-Focus is on addressing difficult and important problems with academic software, starting in the fields of Computer Science and Natural Language Processing. For example,
+The not-for-profit tackles problems with academic software that authors and research groups struggle to address on their own, even with sufficient training. For example,
 
 + [Reproducibility](#reproducibility)
 + [Sustainable software design](#sustainable-software-design)
@@ -37,17 +36,15 @@ Valuable projects with broad reach, for example projects used by many similar re
 To receive updates on current and future projects:
 
 ```
-send to: Erin Dahlgren <edahlgren@uchicago.edu>
-subject: “AccPub update me”
-body: (can be blank)
+To: Erin Dahlgren <edahlgren@uchicago.edu>
+Subject: “AccPub update me”
 ```
 
 To learn how to get involved:
 
 ```
-send to: Erin Dahlgren <edahlgren@uchicago.edu>
-subject: “AccPub get involved”
-body: (can be blank)
+To: Erin Dahlgren <edahlgren@uchicago.edu>
+Subject: “AccPub get involved”
 ```
 
 ------
