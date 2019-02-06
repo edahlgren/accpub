@@ -1,10 +1,8 @@
-# Accelerating publishing
-
 *Audience: members of the ACM*
 
-[FAQ](#faq)
+This is a preview of a not-for-profit software development company designed to accelerate the publishing of academic papers. [Jump to FAQ](#faq)
 
-This is a preview of a not-for-profit software development company designed to accelerate the publishing of academic papers. Initially its focus is on addressing problems with academic software in Computer Science and Natural Language Processing. For example,
+Initially its focus is on addressing problems with academic software in Computer Science and Natural Language Processing. For example,
 
 + [Reproducibility](#reproducibility)
 + [Sustainable software design](#sustainable-software-design)
