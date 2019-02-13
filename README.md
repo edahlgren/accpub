@@ -1,8 +1,8 @@
-This is a preview of a social benefit organization designed to <span id="highlight">accelerate academic publishing</span>, starting with Computer Science and Natural Language Processing research.
+This is a preview of a non-profit social benefit organization designed to <span id="highlight">accelerate academic publishing</span>, starting with Computer Science and Natural Language Processing research.
 
 [Jump to FAQ](#faq)
 
-This company tackles problems with academic software that authors and research groups struggle to address on their own, even with sufficient training. For example:
+This organization tackles problems with academic software that authors and research groups struggle to address on their own, even with sufficient training. For example:
 
 + [Reproducibility](#reproducibility)
 + [Sustainable design](#sustainable-design)
@@ -37,26 +37,23 @@ Valuable projects with broad reach, for example projects used by many similar re
 
 ### Reach out
 
-Send us a quick note --- for example, you can completely omit the message body --- and we will reply within 48-72 hours.
+Send us a quick note and we will do our best to reply within 48-72 hours. Address all messages to `Erin Dahlgren <edahlgren@uchicago.edu>`. For example:
 
 To help with machine learning reproducibility:
 
 ```
-Send To: Erin Dahlgren <edahlgren@uchicago.edu>
 Subject: “Accpub machine learning”
 ```
 
 To receive updates on current and future projects:
 
 ```
-Send To: Erin Dahlgren <edahlgren@uchicago.edu>
 Subject: “Accpub update me”
 ```
 
 To learn how you can get involved:
 
 ```
-Send To: Erin Dahlgren <edahlgren@uchicago.edu>
 Subject: “Accpub get involved”
 ```
 
@@ -85,22 +82,11 @@ Nothing for academic researchers. We may decide to charge outsiders (e.g. indust
 
 #### What’s the name of this?
 
-We have yet to settle on a name. We’re considering using the name of a bright color (e.g. “tangerine”), but we would love to hear your suggestions because naming is hard!
-
-```
-Send To: Erin Dahlgren <edahlgren@uchicago.edu>
-Subject: “Accpub name: (your suggestion)”
-```
+The working name of this organization is "The Rearmory", which stands for "The Research Armory".
 
 #### Where’s your website?
 
-We’re still working on our website. If you’d like to help, send us links to well-designed informational websites and tell us why you like them.
-
-```
-Send To: Erin Dahlgren <edahlgren@uchicago.edu>
-Subject: “Accpub websites"
-Body: Links to websites + descriptions
-```
+We’re still working on our website. We'd love to know about your favorite well-designed informational websites: send links to `Erin Dahlgren <edahlgren@uchicago.edu>`.
 
 #### How are you different from organizations like The Software Sustainability Institute?
 
@@ -112,26 +98,14 @@ We hope to work with [the Software Sustainability Institute](https://www.softwar
 
 #### How do you operate?
 
-At the moment, we operate as a software development and consulting practice, free for academics in exchange for projects coming under our umbrella, similar to how [the Linux Foundation](https://www.apache.org/) and [the Apache Foundation](https://www.linuxfoundation.org/) operate.
+At the moment, we operate as a software development and consulting practice, free for individual academics at participating institutions in exchange for projects coming under our umbrella, similar to how [the Linux Foundation](https://www.apache.org/) and [the Apache Foundation](https://www.linuxfoundation.org/) operate.
 
 In general, the projects we work on have open source code. This gives academic researchers the visibility they need to explain and conduct experiments. With the permission of authors, we may explore adding closed-sourced features to projects that we would still offer to academics for free but we would sell to outsiders as a way to raise revenue to support more projects in need of our help.
 
 #### Are you hiring?
 
-Not at the moment, but only because we are still in the early stages of raising revenue to support more full-time employees. If you are interested in working as a research software engineer on open source infrastructure for Computer Science and Natural Language Processing research, send us a message anyway.
-
-```
-Send To: Erin Dahlgren <edahlgren@uchicago.edu>
-Subject: “Accpub jobs”
-Body: Tell us about your research
-```
+Not at the moment. If you are interested in working as a research software engineer on open source infrastructure for Computer Science and Natural Language Processing research, send a message to `Erin Dahlgren <edahlgren@uchicago.edu>` with a description of your research interests.
 
 #### Can I ask you for help with my project?
 
-Definitely! We’d love to hear about what you’re doing to see if and how we can help. It’s possible that we can better justify investing in an area if we hear about similar projects or problems from multiple people.
-
-```
-Send To: Erin Dahlgren <edahlgren@uchicago.edu>
-Subject: “Accpub help”
-Body: Tell us about your research, project, and timeline
-```
+Definitely! We’d love to hear about what you’re doing to see if and how we can help. It’s possible that we can better justify investing in an area if we hear about similar projects or problems from multiple people. Send inquiries to `Erin Dahlgren <edahlgren@uchicago.edu>` with a description of your project and any important deadlines.
